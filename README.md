@@ -9,4 +9,14 @@ List of issues mentioned on the blog
 *   Thoughts about frontend
 *   How to prepare for job interview
 
+Technology stack:
+* Informatica PowerCenter
+* SSIS
+* SQL (PL/SQL and T-SQL)
+* Databases: Netezza, Oracle, SQL Server
+* PowerShell
+* Cloud
+* Frontend: Power BI, BO, QlikView
+* Certificates - and it's business model
+
 [NextLevelBi blog](https://nextlevelbi.pl)
