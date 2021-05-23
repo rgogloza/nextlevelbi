@@ -1,7 +1,7 @@
 Next Level Bi - from standalone DWH into the Cloud (and back?) 
 =============
 
-List of issues mentioned on the blog
+List of issues mentioned on the blog: nextlevelbi.pl
 
 *   DWH and BI concepts
 *   How to do it faster? How to build an automation to daily work.
@@ -13,10 +13,10 @@ Technology stack:
 * Informatica PowerCenter
 * SSIS
 * SQL (PL/SQL and T-SQL)
-* Databases: Netezza, Oracle, SQL Server
-* PowerShell
+* Databases and Data Lakes: Netezza, Impala, Oracle, SQL Server
+* PowerShell, Python, VBA
 * Cloud
 * Frontend: Power BI, BO, QlikView
-* Certificates - and it's business model
+* Certificates (Azure) - and it's business model
 
 [NextLevelBi blog](https://nextlevelbi.pl)
