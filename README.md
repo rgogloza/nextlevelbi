@@ -1,4 +1,4 @@
-Next Level Bi - from standalone DWH into the Cloud (and back?) 
+Next Level Bi - from standalone DWH through Data Lake into the Cloud (and back?) 
 =============
 
 List of issues mentioned on the blog: nextlevelbi.pl
