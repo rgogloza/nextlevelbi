@@ -1,22 +1,21 @@
-Next Level Bi - from standalone DWH through Data Lake into the Cloud (and back?) 
+Next Level Bi - from standalone DW through Data Lake into the Cloud with an automation
 =============
 
 List of issues mentioned on the blog: nextlevelbi.pl
 
-*   DWH and BI concepts
+*   Data Lake, Data Warehouse and BI concepts
 *   How to do it faster? How to build an automation to daily work.
 *   Developers journal - what I'm exploring at the moment
-*   Thoughts about frontend
-*   How to prepare for job interview
+*   Next Level SQL - from 0 to hero: SQL introduction
 
-Technology stack:
+Author's Technology stack:
 * Informatica PowerCenter
 * SSIS
-* SQL (PL/SQL and T-SQL)
-* Databases and Data Lakes: Netezza, Impala, Oracle, SQL Server
-* PowerShell, Python, VBA
-* Cloud
+* dbt
+* SQL and T-SQL
+* Databases and Data Lakes: Netezza, Impala, SQL Server, Oracle
+* Python, PowerShell, VBA
+* Azure
 * Frontend: Power BI, BO, QlikView
-* Certificates (Azure) - and it's business model
 
 [NextLevelBi blog](https://nextlevelbi.pl)
