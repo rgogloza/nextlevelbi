@@ -2,5 +2,12 @@ Next Level Bi - Databricks Chapter
 =============
 
 user_tab_columns.ipynb - metadata table created from hive metastore. It makes exploring Delta Lake metadata easier if you used to information_schema.columns or all_tab_columns
+[NextLevel BI](https://nextlevelbi.pl/databricks-user-table-columns/)
 
+utils-db.ipynb - how to connect from Databricks to Azure SQL Server using a few easy steps.
+[Next Level BI](https://nextlevelbi.pl/jak-polaczyc-sie-z-databricks-do-sql-servera/)
+
+Blog Home Page:
 [NextLevelBi blog](https://nextlevelbi.pl)
+
+
