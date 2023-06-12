@@ -7,6 +7,9 @@ user_tab_columns.ipynb - metadata table created from hive metastore. It makes ex
 utils-db.ipynb - how to connect from Databricks to Azure SQL Server using a few easy steps.
 [Next Level BI](https://nextlevelbi.pl/jak-polaczyc-sie-z-databricks-do-sql-servera/)
 
+utils-job-creator.ipynb - how to automatically create Databricks job using Databricks REST API.
+[Next Level BI](https://nextlevelbi.pl/generowanie-ladowanie-databricks-rest-api/)
+
 Blog Home Page:
 [NextLevelBi blog](https://nextlevelbi.pl)
 
