@@ -1,0 +1,2 @@
+order_id,source_system,created_date,subscription_valid_from_date,subscription_valid_to_date,app_name,status,salesperson,payment_mode,currency,list_price,standard_discount,additional_discount
+900502,goblet,2024-01-12,2024-11-24,2025-06-02,Sub-Ex,renewed,Allix Haselup,Visa,USD,84.52,60.55,
