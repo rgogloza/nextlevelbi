@@ -9,11 +9,11 @@ List of issues mentioned on the blog: nextlevelbi.pl
 
 Author's Technology stack:
 * Databricks
+* Python
 * ETL: Informatica PowerCenter, SSIS
-* dbt
 * SQL (T-SQL)
-* Databases and Data Lakes: Netezza, Impala, Databricks, SQL Server, Oracle
-* Python, PowerShell, VBA, .net
+* Databases and Data Lakes: Netezza, Impala, Databricks, Synapse, SQL Server, Oracle
+* PowerShell, VBA, .net
 * Azure
 * Frontend: Power BI, BO, QlikView
 
